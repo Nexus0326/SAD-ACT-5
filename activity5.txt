@@ -1,0 +1,12 @@
+INTRODUCTION TO CI/CD - ACTIVITY 5
+
+Name: Dan Antonio Pedragorda
+GitHub Username: Nexus0326
+
+Activity: Git Branching and Merging
+
+What I learned:
+1. A branch allows me to work on changes separately.
+2. Git commit saves changes in the repository history.
+3. Git merge combines changes from different branches.
+4. GitHub allows me to store and share my repository online.
